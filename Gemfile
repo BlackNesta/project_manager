@@ -62,6 +62,8 @@ group :development do
   
   gem "erb2haml"
   gem "haml2slim"
+
+  gem "annotaterb"
 end
 
 group :test do
